@@ -5,5 +5,4 @@ The goal was to implement search algoritms BFS, DFS, A* and A* heuristic found i
 Original project can be found at: https://github.com/ibenes/freecell
 <br /> <br />
 
-#### Points:
-7/7
+#### Points: 7/7
